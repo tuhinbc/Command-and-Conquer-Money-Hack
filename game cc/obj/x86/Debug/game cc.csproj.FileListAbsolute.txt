@@ -1,0 +1,12 @@
+G:\c# Lab\printing\game cc\game cc\bin\Debug\game cc.exe
+G:\c# Lab\printing\game cc\game cc\bin\Debug\game cc.pdb
+G:\c# Lab\printing\game cc\game cc\obj\x86\Debug\game cc.exe
+G:\c# Lab\printing\game cc\game cc\obj\x86\Debug\game cc.pdb
+G:\Laboratory\c# Lab\printing\game cc\game cc\obj\x86\Debug\game cc.exe
+G:\Laboratory\c# Lab\printing\game cc\game cc\obj\x86\Debug\game cc.pdb
+G:\Laboratory\c# Lab\printing\game cc\game cc\bin\Debug\game cc.exe
+G:\Laboratory\c# Lab\printing\game cc\game cc\bin\Debug\game cc.pdb
+I:\Laboratory\c# Lab\game cc\game cc\obj\x86\Debug\game cc.exe
+I:\Laboratory\c# Lab\game cc\game cc\obj\x86\Debug\game cc.pdb
+I:\Laboratory\c# Lab\game cc\game cc\bin\Debug\game cc.exe
+I:\Laboratory\c# Lab\game cc\game cc\bin\Debug\game cc.pdb
